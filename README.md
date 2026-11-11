@@ -54,6 +54,7 @@ Enjoy it below!
 * (ICCAD 2024) MARCA: Mamba Accelerator with ReConfigurable Architecture [[paper](https://arxiv.org/abs/2409.11440)] (2024.09.16)
 * S7: Selective and Simplified State Space Layers for Sequence Modeling [[paper](https://arxiv.org/abs/2410.03464)] (2024.10.04)
 * TransMamba: Flexibly Switching between Transformer and Mamba [[paper](https://arxiv.org/abs/2503.24067)] (2025.03.31)
+* (NeurIPS 2026) Swimba: Switch Mamba Model Scales State Space Models [[paper](https://arxiv.org/abs/2603.06938)] (2026.03.06)
 
 <span id="head4"></span>
 ### Theoretical Analysis
